@@ -1,121 +1,530 @@
-[{
-  "effect": "Evergreen",
-  "rule": "Deathtouch, Defender, Double Strike, Enchant, Equip, Fight, First Strike, Flask, Flying, Haste, Hexproof, Indestructible, Intimidate, Landwalk, Lifelink, Protection, Reach, Regeneration, Trample, Vigilance.",
-  "blocks": ["All"],
-  "example": "http://magiccards.info/scans/en/10e/268.jpg",
-  "rating": 0
-},{
-  "effect": "Color Hybrid",
-  "rule": "Mana costs that can be paid with two different colors of mana.",
-  "blocks": ["Ravnica", "Shadowmoor", "Return to Ravnica"],
-  "example": "http://magiccards.info/scans/en/gtc/215.jpg",
-  "rating": 1
-},{
-  "effect": "Cycling",
-  "rule": "Discard this card: Draw a card.",
-  "blocks": ["Urza's", "Onslaught", "Time Spiral", "Alara"],
-  "example": "http://magiccards.info/scans/en/us/176.jpg",
-  "rating": 1
-},{
-  "effect": "Flashback",
-  "rule": "You may cast this card from your graveyard for its flashback cost. Then exile it.",
-  "blocks": ["Odyssey", "Time Spiral", "Innistrad"],
-  "example": "http://magiccards.info/scans/en/isd/83.jpg",
-  "rating": 1
-},{
-  "effect": "Landfall",
-  "rule": "Whenever a land enters the battlefield under your control, [effect].",
-  "blocks": ["Zendikar"],
-  "example": "http://magiccards.info/scans/en/zen/168.jpg",
-  "rating": 1
-},{
-  "effect": "Scry",
-  "rule": "Look at the top N cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.",
-  "blocks": ["Mirriodin", "Future Sight", "Magic 2011", "Theros"],
-  "example": "http://magiccards.info/scans/en/ddi/24.jpg",
-  "rating": 1
-},{
-  "effect": "Convoke",
-  "rule": "Each creature you tap while casting this spell reduces its cost by {1} or by one mana of that creature's color.",
-  "blocks": ["Ravnica"],
-  "example": "http://magiccards.info/scans/en/rav/156.jpg",
-  "rating": 2
-},{
-  "effect": "Devotion",
-  "rule": "Each [symbol] in the mana costs of permanents you control counds towards your devontion to [symbol].",
-  "blocks": ["Theros"],
-  "example": "http://magiccards.info/scans/en/ths/89.jpg",
-  "rating": 2
-},{
-  "effect": "Proliferate",
-  "rule": "You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.",
-  "blocks": ["Scars of Mirrodin"],
-  "example": "http://magiccards.info/scans/en/som/45.jpg",
-  "rating": 2
-},{
-  "effect": "Unearth",
-  "rule": "[Cost]: Return this card from your graveyward to the battliefield. It gans haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.",
-  "blocks": ["Alara"],
-  "example": "http://magiccards.info/scans/en/ala/193.jpg", 
-  "rating": 2
-},{
-  "effect": "Battle Cry",
-  "rule": "Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.",
-  "blocks": ["Scars of Mirrodin"],
-  "example": "http://magiccards.info/scans/en/mbs/1.jpg",
-  "rating": 3
-},{
-  "effect": "Double-faced cards",
-  "rule": "Cards with two faces.",
-  "blocks": ["Innistrad"],
-  "example": "http://magiccards.info/scans/en/isd/90b.jpg",
-  "rating": 3
-},{
-  "effect": "Cascade",
-  "rule": "When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.",
-  "blocks": ["Alara"],
-  "example": "http://magiccards.info/scans/en/pc2/84.jpg",
-  "rating": 3
-},{
-  "effect": "Evoke",
-  "rule": "You may cast this spell of its evoke cost. If you do, it's sacrificed when it enters the battlefield.",
-  "blocks": ["Lorwyn"],
-  "example": "http://magiccards.info/scans/en/mma/54.jpg",
-  "rating": 3
-},{
-  "effect": "Exalted",
-  "rule": "Whenever a creature you control attackes alone, that creature gets +1/+1 until end of turn.",
-  "blocks": ["Alara", "Magic 2013"],
-  "example": "http://magiccards.info/scans/en/m13/6.jpg",
-  "rating": 3
-},{
-  "effect": "Infect",
-  "rule": "This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.",
-  "blocks": ["Scars of Mirrodin"],
-  "example": "http://magiccards.info/scans/en/nph/111.jpg",
-  "rating": 3
-},{
-  "effect": "Monocolor Hybrid",
-  "rule": "Colored mana costs that can alternatively be paid with {2}.",
-  "blocks": ["Shadowmoor"],
-  "example": "http://magiccards.info/scans/en/ddk/26.jpg",
-  "rating": 3
-},{
-  "effect": "Persist",
-  "rule": "When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under it's owner's control with a -1/-1 counter on it.",
-  "blocks": ["Shadowmoor"],
-  "example": "http://magiccards.info/scans/en/mma/190.jpg",
-  "rating": 3
-},{
-  "effect": "Rebound",
-  "rule": "If you cast this spell from your hand, exil it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost",
-  "blocks": ["Zendikar"],
-  "example": "http://magiccards.info/scans/en/roe/60.jpg",
-  "rating": 3
-},{
-  "effect": "Changeling",
-  "rule": "This card is every creature type at all times",
-  "blocks": ["Lorwyn", "Shadowmoor"],
-  "example": "http://magiccards.info/scans/en/mma/6.jpg",
-  "rating": 4
-}]
+[
+    {
+        "blocks": [
+            "All"
+        ],
+        "effect": "Evergreen",
+        "example": "http://magiccards.info/scans/en/10e/268.jpg",
+        "rating": 0,
+        "rule": "Deathtouch, Defender, Double Strike, Enchant, Equip, Fight, First Strike, Flask, Flying, Haste, Hexproof, Indestructible, Intimidate, Landwalk, Lifelink, Protection, Reach, Regeneration, Trample, Vigilance."
+    },
+    {
+        "blocks": [
+            "Ravnica",
+            "Shadowmoor",
+            "Return to Ravnica"
+        ],
+        "effect": "Color Hybrid",
+        "example": "http://magiccards.info/scans/en/gtc/215.jpg",
+        "rating": 1,
+        "rule": "Mana costs that can be paid with two different colors of mana."
+    },
+    {
+        "blocks": [
+            "Urza's",
+            "Onslaught",
+            "Time Spiral",
+            "Alara"
+        ],
+        "effect": "Cycling",
+        "example": "http://magiccards.info/scans/en/us/176.jpg",
+        "rating": 1,
+        "rule": "Discard this card: Draw a card."
+    },
+    {
+        "blocks": [
+            "Odyssey",
+            "Time Spiral",
+            "Innistrad"
+        ],
+        "effect": "Flashback",
+        "example": "http://magiccards.info/scans/en/isd/83.jpg",
+        "rating": 1,
+        "rule": "You may cast this card from your graveyard for its flashback cost. Then exile it."
+    },
+    {
+        "blocks": [
+            "Zendikar"
+        ],
+        "effect": "Landfall",
+        "example": "http://magiccards.info/scans/en/zen/168.jpg",
+        "rating": 1,
+        "rule": "Whenever a land enters the battlefield under your control, [effect]."
+    },
+    {
+        "blocks": [
+            "Mirriodin",
+            "Future Sight",
+            "Magic 2011",
+            "Theros"
+        ],
+        "effect": "Scry",
+        "example": "http://magiccards.info/scans/en/ddi/24.jpg",
+        "rating": 1,
+        "rule": "Look at the top N cards of your library. Put any number of them on the bottom of your library and the rest on top in any order."
+    },
+    {
+        "blocks": [
+            "Ravnica"
+        ],
+        "effect": "Convoke",
+        "example": "http://magiccards.info/scans/en/rav/156.jpg",
+        "rating": 2,
+        "rule": "Each creature you tap while casting this spell reduces its cost by {1} or by one mana of that creature's color."
+    },
+    {
+        "blocks": [
+            "Theros"
+        ],
+        "effect": "Devotion",
+        "example": "http://magiccards.info/scans/en/ths/89.jpg",
+        "rating": 2,
+        "rule": "Each [symbol] in the mana costs of permanents you control counds towards your devontion to [symbol]."
+    },
+    {
+        "blocks": [
+            "Scars of Mirrodin"
+        ],
+        "effect": "Proliferate",
+        "example": "http://magiccards.info/scans/en/som/45.jpg",
+        "rating": 2,
+        "rule": "You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there."
+    },
+    {
+        "blocks": [
+            "Alara"
+        ],
+        "effect": "Unearth",
+        "example": "http://magiccards.info/scans/en/ala/193.jpg",
+        "rating": 2,
+        "rule": "[Cost]: Return this card from your graveyward to the battliefield. It gans haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery."
+    },
+    {
+        "blocks": [
+            "Scars of Mirrodin"
+        ],
+        "effect": "Battle Cry",
+        "example": "http://magiccards.info/scans/en/mbs/1.jpg",
+        "rating": 3,
+        "rule": "Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn."
+    },
+    {
+        "blocks": [
+            "Innistrad"
+        ],
+        "effect": "Double-faced cards",
+        "example": "http://magiccards.info/scans/en/isd/90b.jpg",
+        "rating": 3,
+        "rule": "Cards with two faces."
+    },
+    {
+        "blocks": [
+            "Alara"
+        ],
+        "effect": "Cascade",
+        "example": "http://magiccards.info/scans/en/pc2/84.jpg",
+        "rating": 3,
+        "rule": "When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order."
+    },
+    {
+        "blocks": [
+            "Lorwyn"
+        ],
+        "effect": "Evoke",
+        "example": "http://magiccards.info/scans/en/mma/54.jpg",
+        "rating": 3,
+        "rule": "You may cast this spell of its evoke cost. If you do, it's sacrificed when it enters the battlefield."
+    },
+    {
+        "blocks": [
+            "Alara",
+            "Magic 2013"
+        ],
+        "effect": "Exalted",
+        "example": "http://magiccards.info/scans/en/m13/6.jpg",
+        "rating": 3,
+        "rule": "Whenever a creature you control attackes alone, that creature gets +1/+1 until end of turn."
+    },
+    {
+        "blocks": [
+            "Scars of Mirrodin"
+        ],
+        "effect": "Infect",
+        "example": "http://magiccards.info/scans/en/nph/111.jpg",
+        "rating": 3,
+        "rule": "This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters."
+    },
+    {
+        "blocks": [
+            "Shadowmoor"
+        ],
+        "effect": "Monocolor Hybrid",
+        "example": "http://magiccards.info/scans/en/ddk/26.jpg",
+        "rating": 3,
+        "rule": "Colored mana costs that can alternatively be paid with {2}."
+    },
+    {
+        "blocks": [
+            "Shadowmoor"
+        ],
+        "effect": "Persist",
+        "example": "http://magiccards.info/scans/en/mma/190.jpg",
+        "rating": 3,
+        "rule": "When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under it's owner's control with a -1/-1 counter on it."
+    },
+    {
+        "blocks": [
+            "Zendikar"
+        ],
+        "effect": "Rebound",
+        "example": "http://magiccards.info/scans/en/roe/60.jpg",
+        "rating": 3,
+        "rule": "If you cast this spell from your hand, exil it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost"
+    },
+    {
+        "blocks": [
+            "Lorwyn",
+            "Shadowmoor"
+        ],
+        "effect": "Changeling",
+        "example": "http://magiccards.info/scans/en/mma/6.jpg",
+        "rating": 4,
+        "rule": "This card is every creature type at all times"
+    },
+    {
+        "blocks": [],
+        "effect": "Domain",
+        "example": "",
+        "rating": 4,
+        "rule": "[Effect], for each basic land type among lands you control"
+    },
+    {
+        "blocks": [],
+        "effect": "Entwine",
+        "example": "",
+        "rating": 4,
+        "rule": "Choose both (modular options) if you pay the entwine cost."
+    },
+    {
+        "blocks": [],
+        "effect": "Grandeur",
+        "example": "",
+        "rating": 4,
+        "rule": "Discard another card named [Card Name]: Effect."
+    },
+    {
+        "blocks": [],
+        "effect": "Imprint",
+        "example": "",
+        "rating": 4,
+        "rule": "Exile a card [effect based on exiled card]."
+    },
+    {
+        "blocks": [],
+        "effect": "Miracle",
+        "example": "",
+        "rating": 4,
+        "rule": "You may cast this card for its Miracle cost when you draw it if it's the first card you drew this turn."
+    },
+    {
+        "blocks": [],
+        "effect": "Totem Armor",
+        "example": "",
+        "rating": 4,
+        "rule": "If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura."
+    },
+    {
+        "blocks": [],
+        "effect": "Undying",
+        "example": "",
+        "rating": 4,
+        "rule": "When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it."
+    },
+    {
+        "blocks": [],
+        "effect": "Chroma",
+        "example": "",
+        "rating": 5,
+        "rule": "[Effect] for each [color] symbol in its mana cost."
+    },
+    {
+        "blocks": [],
+        "effect": "Curse",
+        "example": "",
+        "rating": 5,
+        "rule": "Enchant player subtype."
+    },
+    {
+        "blocks": [],
+        "effect": "Morbid",
+        "example": "",
+        "rating": 5,
+        "rule": "[Effect], if a creature died this turn."
+    },
+    {
+        "blocks": [],
+        "effect": "Morph",
+        "example": "",
+        "rating": 5,
+        "rule": "You may cast this face down as a 2/2 creature for Turn it face up any time for its morph cost."
+    },
+    {
+        "blocks": [],
+        "effect": "Soulbond",
+        "example": "",
+        "rating": 5,
+        "rule": "You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them."
+    },
+    {
+        "blocks": [],
+        "effect": "Affinity / (For Artifacts)",
+        "example": "",
+        "rating": 0,
+        "rule": "This spell costs less to cast for each [factor] you control."
+    },
+    {
+        "blocks": [],
+        "effect": "Buyback",
+        "example": "",
+        "rating": 6,
+        "rule": "You may pay an additional [cost] as you cast this spell. If you do, put this card into your hand as it resolves."
+    },
+    {
+        "blocks": [],
+        "effect": "Champion",
+        "example": "",
+        "rating": 6,
+        "rule": "When this enters the battlefield, sacrifice it unless you exile another [factor] you control. When this leaves the battlefield, that card returns to the battlefield."
+    },
+    {
+        "blocks": [],
+        "effect": "Living Weapon",
+        "example": "",
+        "rating": 6,
+        "rule": "When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it."
+    },
+    {
+        "blocks": [],
+        "effect": "Annihilator",
+        "example": "",
+        "rating": 7,
+        "rule": "Whenever this creature attacks, defending player sacrifices N permanents."
+    },
+    {
+        "blocks": [],
+        "effect": "Devour",
+        "example": "",
+        "rating": 7,
+        "rule": "As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it."
+    },
+    {
+        "blocks": [],
+        "effect": "Kinship",
+        "example": "",
+        "rating": 7,
+        "rule": "At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with [Card Name], you may reveal it. If you do, [effect]."
+    },
+    {
+        "blocks": [],
+        "effect": "Level Up",
+        "example": "",
+        "rating": 7,
+        "rule": "[Cost]: Put a level counter on this. Level up only as a sorcery.Factors based on creatures level."
+    },
+    {
+        "blocks": [],
+        "effect": "Metalcraft",
+        "example": "",
+        "rating": 7,
+        "rule": "As long as you control three or more artifacts, [effect]."
+    },
+    {
+        "blocks": [],
+        "effect": "Ninjutsu / (Renamed)",
+        "example": "",
+        "rating": 0,
+        "rule": "[Cost]: Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking"
+    },
+    {
+        "blocks": [],
+        "effect": "Provoke",
+        "example": "",
+        "rating": 7,
+        "rule": "When this attacks, you may have target creature defending player controls untap and block it if able"
+    },
+    {
+        "blocks": [],
+        "effect": "Rampage",
+        "example": "",
+        "rating": 7,
+        "rule": "Whenever this creature becomes blocked, it gets +N/+N until end of turn for each creature blocking it beyond the first."
+    },
+    {
+        "blocks": [],
+        "effect": "Recover",
+        "example": "",
+        "rating": 7,
+        "rule": "When a creature is put into your graveyard from the battlefield, you may pay [cost]. If you do, return this card from your graveyard to your hand. Otherwise, exile this card."
+    },
+    {
+        "blocks": [],
+        "effect": "Retrace",
+        "example": "",
+        "rating": 7,
+        "rule": "You may cast this card from your graveyard by discarding a land card in addition to paying its other costs"
+    },
+    {
+        "blocks": [],
+        "effect": "Shadow",
+        "example": "",
+        "rating": 7,
+        "rule": "This creature can block or be blocked by only creatures with shadow."
+    },
+    {
+        "blocks": [],
+        "effect": "Snow",
+        "example": "",
+        "rating": 7,
+        "rule": "Snow permanents and Snow mana."
+    },
+    {
+        "blocks": [],
+        "effect": "Split Second",
+        "example": "",
+        "rating": 7,
+        "rule": "As long as this spell is on the stack, players can\u2019t cast spells or activate abilities that aren't mana abilities."
+    },
+    {
+        "blocks": [],
+        "effect": "Vanishing",
+        "example": "",
+        "rating": 7,
+        "rule": "This permanent enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it."
+    },
+    {
+        "blocks": [],
+        "effect": "Bushido / (Renamed)",
+        "example": "",
+        "rating": 0,
+        "rule": "When this blocks or becomes blocked, it gets +N/+N until end of turn."
+    },
+    {
+        "blocks": [],
+        "effect": "Echo",
+        "example": "",
+        "rating": 8,
+        "rule": "At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost."
+    },
+    {
+        "blocks": [],
+        "effect": "Flip cards",
+        "example": "",
+        "rating": 8,
+        "rule": "Cards with two card sides on the same face."
+    },
+    {
+        "blocks": [],
+        "effect": "Madness",
+        "example": "",
+        "rating": 8,
+        "rule": "If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard."
+    },
+    {
+        "blocks": [],
+        "effect": "Radiance",
+        "example": "",
+        "rating": 8,
+        "rule": "Target creature and each other creature that shares a color with it [effect]."
+    },
+    {
+        "blocks": [],
+        "effect": "Ripple",
+        "example": "",
+        "rating": 8,
+        "rule": "When you cast this spell, you may reveal the top N cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library."
+    },
+    {
+        "blocks": [],
+        "effect": "Threshold",
+        "example": "",
+        "rating": 8,
+        "rule": "As long as seven or more cards are in your graveyard, [effect]."
+    },
+    {
+        "blocks": [],
+        "effect": "Clash",
+        "example": "",
+        "rating": 9,
+        "rule": "Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost."
+    },
+    {
+        "blocks": [],
+        "effect": "Flanking / (Worked against flankers)",
+        "example": "",
+        "rating": 0,
+        "rule": "Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn."
+    },
+    {
+        "blocks": [],
+        "effect": "Horsemanship",
+        "example": "",
+        "rating": 9,
+        "rule": "This creature can't be blocked except by creatures with horsemanship."
+    },
+    {
+        "blocks": [],
+        "effect": "Phasing",
+        "example": "",
+        "rating": 9,
+        "rule": "This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist."
+    },
+    {
+        "blocks": [],
+        "effect": "Suspend",
+        "example": "",
+        "rating": 9,
+        "rule": "Rather than cast this card from your hand, you may pay [cost] and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste."
+    },
+    {
+        "blocks": [],
+        "effect": "Tribal",
+        "example": "",
+        "rating": 9,
+        "rule": "Card type allowing cards to have creature types."
+    },
+    {
+        "blocks": [],
+        "effect": "Untap",
+        "example": "",
+        "rating": 9,
+        "rule": "Costs involving ."
+    },
+    {
+        "blocks": [],
+        "effect": "World",
+        "example": "",
+        "rating": 9,
+        "rule": "There can only be one World enchantment on the battlefield at a time."
+    },
+    {
+        "blocks": [],
+        "effect": "Banding",
+        "example": "",
+        "rating": 10,
+        "rule": "Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking"
+    },
+    {
+        "blocks": [],
+        "effect": "Storm",
+        "example": "",
+        "rating": 10,
+        "rule": "When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies."
+    },
+    {
+        "blocks": [],
+        "effect": "Bands With Others",
+        "example": "",
+        "rating": 11,
+        "rule": "This creature can attack in a band as long as at least one has \"bands with [factor].\" Bands are blocked as a group. If at least two creatures you control, one of which has \"bands with other [factor],\" are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking."
+    }
+]

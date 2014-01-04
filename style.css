@@ -12,7 +12,7 @@ h1 {
   max-width: 800px;
 }
 
-.rule {
+td.rule {
   font-style: italic;
 }
 
@@ -54,7 +54,7 @@ td.effect {
   font-weight: bold;
 }
 
-.rating {
+td.rating {
   padding: 0 20px;
   font-size: 75px;
 }
@@ -105,4 +105,10 @@ td.effect {
 
 .rating-11 {
   color: #000;
+}
+
+.rule, .blocks { display: none; }
+
+@media (min-width: 600px) {
+  .rule, .blocks { display: table-cell; }
 }

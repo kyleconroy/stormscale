@@ -24,11 +24,11 @@
       <table id="mechanics">
         <thead>
           <tr>
-            <th>Effect</th>
-            <th>Rules Text</th>
-            <th>Blocks</th>
-            <th>Example</th>
-            <th>Rating</th>
+            <th class="effect">Effect</th>
+            <th class="rule">Rules Text</th>
+            <th class="blocks">Blocks</th>
+            <th class="card">Example</th>
+            <th class="rating">Rating</th>
           </tr>
         </thead>
         <tbody>
@@ -37,7 +37,7 @@
             <td class="effect">{{.Effect}}</td>
             <td class="rule">{{.RulesText}}</td>
             <td class="blocks">{{range .Blocks}}{{.}}</br>{{end}}</td>
-            <td><img src="{{.CardURL}}" /></td>
+            <td class="card"><a href="{{.CardURL}}"><img src="{{.CardURL}}" /></a></td>
             <td class="rating rating-{{.Rating}}">{{.Rating}}</td>
           </tr>
           {{end}}
