@@ -20,6 +20,10 @@ td.rule, td.effect, td.blocks {
   vertical-align: top;
 }
 
+td.rating {
+  text-align: center;
+}
+
 td.rule {
   width: 35%;
 }
@@ -105,6 +109,15 @@ td.rating {
 
 .rating-11 {
   color: #000;
+}
+
+ol.scale li {
+  font-weight: bold;
+}
+
+ol.scale li span {
+  color: #000;
+  font-weight: normal;
 }
 
 .rule, .blocks { display: none; }

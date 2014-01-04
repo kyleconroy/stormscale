@@ -31,8 +31,21 @@ func main() {
 	}
 
 	var mechanics Mechanics
+	var scale []string
 
-	blob, err := ioutil.ReadFile("mechanics.json")
+	blob, err := ioutil.ReadFile("stormscale.json")
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	err = json.Unmarshal(blob, &scale)
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	blob, err = ioutil.ReadFile("mechanics.json")
 
 	if err != nil {
 		log.Fatal(err)
@@ -40,17 +53,13 @@ func main() {
 
 	err = json.Unmarshal(blob, &mechanics)
 
-	if err != nil {
-		log.Fatal(err)
-	}
-
 	writer, err := os.Create("index.html")
 
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	payload := Payload{Items: mechanics}
+	payload := Payload{Items: mechanics, Scale: scale}
 
 	err = tmpl.Execute(writer, payload)
 

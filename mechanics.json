@@ -182,6 +182,13 @@
         "rule": "If you cast this spell from your hand, exil it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost"
     },
     {
+        "blocks": [],
+        "effect": "Bushido (Renamed)",
+        "example": "",
+        "rating": 4,
+        "rule": "When this blocks or becomes blocked, it gets +N/+N until end of turn."
+    },
+    {
         "blocks": [
             "Lorwyn",
             "Shadowmoor"
@@ -277,9 +284,9 @@
     },
     {
         "blocks": [],
-        "effect": "Affinity / (For Artifacts)",
+        "effect": "Affinity",
         "example": "",
-        "rating": 0,
+        "rating": 6,
         "rule": "This spell costs less to cast for each [factor] you control."
     },
     {
@@ -302,6 +309,13 @@
         "example": "",
         "rating": 6,
         "rule": "When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it."
+    },
+    {
+        "blocks": [],
+        "effect": "Ninjutsu (Renamed)",
+        "example": "",
+        "rating": 6,
+        "rule": "[Cost]: Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking"
     },
     {
         "blocks": [],
@@ -337,13 +351,6 @@
         "example": "",
         "rating": 7,
         "rule": "As long as you control three or more artifacts, [effect]."
-    },
-    {
-        "blocks": [],
-        "effect": "Ninjutsu / (Renamed)",
-        "example": "",
-        "rating": 0,
-        "rule": "[Cost]: Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking"
     },
     {
         "blocks": [],
@@ -403,13 +410,6 @@
     },
     {
         "blocks": [],
-        "effect": "Bushido / (Renamed)",
-        "example": "",
-        "rating": 0,
-        "rule": "When this blocks or becomes blocked, it gets +N/+N until end of turn."
-    },
-    {
-        "blocks": [],
         "effect": "Echo",
         "example": "",
         "rating": 8,
@@ -459,9 +459,9 @@
     },
     {
         "blocks": [],
-        "effect": "Flanking / (Worked against flankers)",
+        "effect": "Flanking",
         "example": "",
-        "rating": 0,
+        "rating": 9,
         "rule": "Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn."
     },
     {
