@@ -1,0 +1,115 @@
+[{
+  "effect": "Evergreen",
+  "rule": "Deathtouch, Defender, Double Strike, Enchant, Equip, Fight, First Strike, Flask, Flying, Haste, Hexproof, Indestructible, Intimidate, Landwalk, Lifelink, Protection, Reach, Regeneration, Trample, Vigilance.",
+  "blocks": ["All"],
+  "example": "http://magiccards.info/scans/en/10e/268.jpg",
+  "rating": 0
+},{
+  "effect": "Color Hybrid",
+  "rule": "Mana costs that can be paid with two different colors of mana.",
+  "blocks": ["Ravnica", "Shadowmoor", "Return to Ravnica"],
+  "example": "http://magiccards.info/scans/en/gtc/215.jpg",
+  "rating": 1
+},{
+  "effect": "Cycling",
+  "rule": "Discard this card: Draw a card.",
+  "blocks": ["Urza's", "Onslaught", "Time Spiral", "Alara"],
+  "example": "http://magiccards.info/scans/en/us/176.jpg",
+  "rating": 1
+},{
+  "effect": "Flashback",
+  "rule": "You may cast this card from your graveyard for its flashback cost. Then exile it.",
+  "blocks": ["Odyssey", "Time Spiral", "Innistrad"],
+  "example": "http://magiccards.info/scans/en/isd/83.jpg",
+  "rating": 1
+},{
+  "effect": "Landfall",
+  "rule": "Whenever a land enters the battlefield under your control, [effect].",
+  "blocks": ["Zendikar"],
+  "example": "http://magiccards.info/scans/en/zen/168.jpg",
+  "rating": 1
+},{
+  "effect": "Scry",
+  "rule": "Look at the top N cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.",
+  "blocks": ["Mirriodin", "Future Sight", "Magic 2011", "Theros"],
+  "example": "http://magiccards.info/scans/en/ddi/24.jpg",
+  "rating": 1
+},{
+  "effect": "Convoke",
+  "rule": "Each creature you tap while casting this spell reduces its cost by {1} or by one mana of that creature's color.",
+  "blocks": ["Ravnica"],
+  "example": "http://magiccards.info/scans/en/rav/156.jpg",
+  "rating": 2
+},{
+  "effect": "Devotion",
+  "rule": "Each [symbol] in the mana costs of permanents you control counds towards your devontion to [symbol].",
+  "blocks": ["Theros"],
+  "example": "http://magiccards.info/scans/en/ths/89.jpg",
+  "rating": 2
+},{
+  "effect": "Proliferate",
+  "rule": "You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.",
+  "blocks": ["Scars of Mirrodin"],
+  "example": "http://magiccards.info/scans/en/som/45.jpg",
+  "rating": 2
+},{
+  "effect": "Unearth",
+  "rule": "[Cost]: Return this card from your graveyward to the battliefield. It gans haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.",
+  "blocks": ["Alara"],
+  "example": "http://magiccards.info/scans/en/ala/193.jpg", 
+  "rating": 2
+},{
+  "effect": "Battle Cry",
+  "rule": "Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.",
+  "blocks": ["Scars of Mirrodin"],
+  "example": "http://magiccards.info/scans/en/mbs/1.jpg",
+  "rating": 3
+},{
+  "effect": "Double-faced cards",
+  "rule": "Cards with two faces.",
+  "blocks": ["Innistrad"],
+  "example": "http://magiccards.info/scans/en/isd/90b.jpg",
+  "rating": 3
+},{
+  "effect": "Cascade",
+  "rule": "When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.",
+  "blocks": ["Alara"],
+  "example": "http://magiccards.info/scans/en/pc2/84.jpg",
+  "rating": 3
+},{
+  "effect": "Evoke",
+  "rule": "You may cast this spell of its evoke cost. If you do, it's sacrificed when it enters the battlefield.",
+  "blocks": ["Lorwyn"],
+  "example": "http://magiccards.info/scans/en/mma/54.jpg",
+  "rating": 3
+},{
+  "effect": "Exalted",
+  "rule": "Whenever a creature you control attackes alone, that creature gets +1/+1 until end of turn.",
+  "blocks": ["Alara", "Magic 2013"],
+  "example": "http://magiccards.info/scans/en/m13/6.jpg",
+  "rating": 3
+},{
+  "effect": "Infect",
+  "rule": "This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.",
+  "blocks": ["Scars of Mirrodin"],
+  "example": "http://magiccards.info/scans/en/nph/111.jpg",
+  "rating": 3
+},{
+  "effect": "Monocolor Hybrid",
+  "rule": "Colored mana costs that can alternatively be paid with {2}.",
+  "blocks": ["Shadowmoor"],
+  "example": "http://magiccards.info/scans/en/ddk/26.jpg",
+  "rating": 3
+},{
+  "effect": "Persist",
+  "rule": "When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under it's owner's control with a -1/-1 counter on it.",
+  "blocks": ["Shadowmoor"],
+  "example": "http://magiccards.info/scans/en/mma/190.jpg"
+  "rating": 3
+},{
+  "effect": "Rebound",
+  "rule": "If you cast this spell from your hand, exil it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost",
+  "blocks": ["Zendikar"],
+  "example": "http://magiccards.info/scans/en/roe/60.jpg",
+  "rating": 3
+}]

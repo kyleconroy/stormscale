@@ -1,0 +1,108 @@
+#mechanics img {
+  width: 120px;
+  max-width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+#container {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.rule {
+  font-style: italic;
+}
+
+td.rule, td.effect, td.blocks {
+  vertical-align: top;
+}
+
+td.rule {
+  width: 35%;
+}
+
+#mechanics {
+  border-collapse: collapse;
+  border-spacing: 0px 0px;
+  -moz-box-sizing: border-box;
+}
+
+#mechanics td, #mechanics th {
+  padding-top: 4px;
+}
+
+#mechanics thead tr {
+  background: #c7d9d1;
+  border-bottom: 2px solid #78ad8d;
+  padding: 2px;
+}
+
+#mechanics tbody tr {
+  border-bottom: 2px solid #78ad8d;
+}
+
+
+td.effect, td.blocks {
+  font-size: 16px;
+}
+
+
+td.effect {
+  font-weight: bold;
+}
+
+.rating {
+  padding: 0 20px;
+  font-size: 75px;
+}
+
+.rating-0 {
+  color: #4ac26b;
+}
+
+.rating-1 {
+  color: #8dc07b;
+}
+
+.rating-2 {
+  color: #9dd393;
+}
+
+.rating-3 {
+  color: #b5c3eb;
+}
+
+.rating-4 {
+  color: #a3b6e1;
+}
+
+.rating-5 {
+  color: #82b2de;
+}
+
+.rating-6 {
+  color: #fbc88f;
+}
+
+.rating-7 {
+  color: #fcbf7b;
+}
+
+.rating-8 {
+  color: #feb569;
+}
+
+.rating-9 {
+  color: #8a4231;
+}
+
+.rating-10 {
+  color: #882b20;
+}
+
+.rating-11 {
+  color: #000;
+}

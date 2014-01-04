@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Magic the Gathering: Mechanic Storm Scale Chart</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <div id="container">
+      <h1>Magic the Gathering: Mechanics Storm Scale Chart</h1>
+      <table id="mechanics">
+        <thead>
+          <tr>
+            <th>Effect</th>
+            <th>Rules Text</th>
+            <th>Blocks</th>
+            <th>Example</th>
+            <th>Rating</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{range .Items}}
+          <tr>
+            <td class="effect">{{.Effect}}</td>
+            <td class="rule">{{.RulesText}}</td>
+            <td class="blocks">{{range .Blocks}}{{.}}</br>{{end}}</td>
+            <td><img src="{{.CardURL}}" /></td>
+            <td class="rating rating-{{.Rating}}">{{.Rating}}</td>
+          </tr>
+          {{end}}
+        </tbody>
+      </table>
+    </div>
+  </body>
+</html>
+
