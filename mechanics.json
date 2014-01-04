@@ -104,7 +104,7 @@
   "effect": "Persist",
   "rule": "When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under it's owner's control with a -1/-1 counter on it.",
   "blocks": ["Shadowmoor"],
-  "example": "http://magiccards.info/scans/en/mma/190.jpg"
+  "example": "http://magiccards.info/scans/en/mma/190.jpg",
   "rating": 3
 },{
   "effect": "Rebound",
@@ -112,4 +112,10 @@
   "blocks": ["Zendikar"],
   "example": "http://magiccards.info/scans/en/roe/60.jpg",
   "rating": 3
+},{
+  "effect": "Changeling",
+  "rule": "This card is every creature type at all times",
+  "blocks": ["Lorwyn", "Shadowmoor"],
+  "example": "http://magiccards.info/scans/en/mma/6.jpg",
+  "rating": 4
 }]
