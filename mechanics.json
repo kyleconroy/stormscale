@@ -6,7 +6,7 @@
         "effect": "Evergreen",
         "example": "http://magiccards.info/scans/en/10e/268.jpg",
         "rating": 0,
-        "rule": "Deathtouch, Defender, Double Strike, Enchant, Equip, Fight, First Strike, Flask, Flying, Haste, Hexproof, Indestructible, Intimidate, Landwalk, Lifelink, Protection, Reach, Regeneration, Trample, Vigilance."
+        "rule": "Deathtouch, Defender, Double Strike, Enchant, Equip, Fight, First Strike, Flash, Flying, Haste, Hexproof, Indestructible, Lifelink, Menace, Prowess, Reach, Regeneration, Scry, Trample, Vigilance."
     },
     {
         "blocks": [
@@ -90,6 +90,13 @@
         "rating": 2,
         "rule": "You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there."
     },
+	{
+        "blocks": ["Formerly Evergreen"],
+        "effect": "Protection",
+        "example": "",
+        "rating": 2,
+        "rule": "This can't be blocked, targeted, dealt damage, or enchanted by anything (quality)"
+    },
     {
         "blocks": [
             "Alara"
@@ -162,6 +169,13 @@
         "example": "http://magiccards.info/scans/en/ddk/26.jpg",
         "rating": 3,
         "rule": "Colored mana costs that can alternatively be paid with {2}."
+    },
+    {
+        "blocks": ["Formerly Evergreen"],
+        "effect": "Landwalk",
+        "example": "",
+        "rating": 3,
+        "rule": "This creature can't be blocked as long as defending player controls a relevant land"
     },
     {
         "blocks": [
@@ -330,6 +344,20 @@
         "example": "",
         "rating": 7,
         "rule": "As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it."
+    },
+	{
+        "blocks": ["Formerly Evergreen"],
+        "effect": "Fear",
+        "example": "",
+        "rating": 7,
+        "rule": "This creature can't be blocked except by artifact creatures and/or black creatures."
+    },
+	{
+        "blocks": ["Formerly Evergreen"],
+        "effect": "Intimidate",
+        "example": "",
+        "rating": 7,
+        "rule": "This creature can't be blocked except by artifact creatures and/or creatures that share a color with it"
     },
     {
         "blocks": [],
