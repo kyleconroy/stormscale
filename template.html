@@ -28,7 +28,7 @@
         <tbody>
           {{range .Items}}
           <tr>
-            <td class="effect">{{.Effect}}</td>
+            <td class="effect"><a href="#{{.Anchor}}">{{.Effect}}</a></td>
             <td class="rule">{{.RulesText}}</td>
             <td class="blocks">{{range .Blocks}}{{.}}</br>{{end}}</td>
             <td class="card"><a href="{{.CardURL}}"><img src="{{.CardURL}}" /></a></td>

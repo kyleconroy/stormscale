@@ -173,7 +173,7 @@
     {
         "blocks": ["Formerly Evergreen"],
         "effect": "Landwalk",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/370685.jpg",
         "rating": 3,
         "rule": "This creature can't be blocked as long as defending player controls a relevant land"
     },
@@ -182,7 +182,7 @@
             "Shadowmoor"
         ],
         "effect": "Persist",
-        "example": "http://magiccards.info/scans/en/mma/190.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/370458.jpg",
         "rating": 3,
         "rule": "When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under it's owner's control with a -1/-1 counter on it."
     },
@@ -191,14 +191,16 @@
             "Zendikar"
         ],
         "effect": "Rebound",
-        "example": "http://magiccards.info/scans/en/roe/60.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/394496.jpg",
         "rating": 3,
         "rule": "If you cast this spell from your hand, exil it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost"
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Champions of Kamigawa"
+        ],
         "effect": "Bushido (Renamed)",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/78968.jpg",
         "rating": 4,
         "rule": "When this blocks or becomes blocked, it gets +N/+N until end of turn."
     },
@@ -208,56 +210,73 @@
             "Shadowmoor"
         ],
         "effect": "Changeling",
-        "example": "http://magiccards.info/scans/en/mma/6.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/397806.jpg",
         "rating": 4,
         "rule": "This card is every creature type at all times"
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Invasion",
+            "Time Spiral",
+            "Alara"
+        ],
         "effect": "Domain",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/25797.jpg",
         "rating": 4,
         "rule": "[Effect], for each basic land type among lands you control"
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Mirrodin"
+        ],
         "effect": "Entwine",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/370432.jpg",
         "rating": 4,
         "rule": "Choose both (modular options) if you pay the entwine cost."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Time Spiral"
+        ],
         "effect": "Grandeur",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/136208.jpg",
         "rating": 4,
         "rule": "Discard another card named [Card Name]: Effect."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Mirrodin",
+            "Scars of Mirrodin"
+        ],
         "effect": "Imprint",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/292752.jpg",
         "rating": 4,
         "rule": "Exile a card [effect based on exiled card]."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Innistrad"
+        ],
         "effect": "Miracle",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/271095.jpg",
         "rating": 4,
         "rule": "You may cast this card for its Miracle cost when you draw it if it's the first card you drew this turn."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Zendikar"
+        ],
         "effect": "Totem Armor",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/198304.jpg",
         "rating": 4,
         "rule": "If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura."
     },
     {
-        "blocks": [],
+        "blocks": [
+          "Innistrad"
+        ],
         "effect": "Undying",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/243250.jpg",
         "rating": 4,
         "rule": "When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it."
     },
