@@ -4,7 +4,7 @@
             "All"
         ],
         "effect": "Evergreen",
-        "example": "http://magiccards.info/scans/en/10e/268.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/3984.jpg",
         "rating": 0,
         "rule": "Deathtouch, Defender, Double Strike, Enchant, Equip, Fight, First Strike, Flash, Flying, Haste, Hexproof, Indestructible, Lifelink, Menace, Prowess, Reach, Regeneration, Scry, Trample, Vigilance."
     },
@@ -15,7 +15,7 @@
             "Return to Ravnica"
         ],
         "effect": "Color Hybrid",
-        "example": "http://magiccards.info/scans/en/gtc/215.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/366385.jpg",
         "rating": 1,
         "rule": "Mana costs that can be paid with two different colors of mana."
     },
@@ -27,7 +27,7 @@
             "Alara"
         ],
         "effect": "Cycling",
-        "example": "http://magiccards.info/scans/en/us/176.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/5564.jpg",
         "rating": 1,
         "rule": "Discard this card: Draw a card."
     },
@@ -38,7 +38,7 @@
             "Innistrad"
         ],
         "effect": "Flashback",
-        "example": "http://magiccards.info/scans/en/isd/83.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/108823.jpg",
         "rating": 1,
         "rule": "You may cast this card from your graveyard for its flashback cost. Then exile it."
     },
@@ -47,7 +47,7 @@
             "Zendikar"
         ],
         "effect": "Landfall",
-        "example": "http://magiccards.info/scans/en/zen/168.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/185749.jpg",
         "rating": 1,
         "rule": "Whenever a land enters the battlefield under your control, [effect]."
     },
@@ -59,7 +59,7 @@
             "Theros"
         ],
         "effect": "Scry",
-        "example": "http://magiccards.info/scans/en/ddi/24.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/50145.jpg",
         "rating": 1,
         "rule": "Look at the top N cards of your library. Put any number of them on the bottom of your library and the rest on top in any order."
     },
@@ -68,7 +68,7 @@
             "Ravnica"
         ],
         "effect": "Convoke",
-        "example": "http://magiccards.info/scans/en/rav/156.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/383209.jpg",
         "rating": 2,
         "rule": "Each creature you tap while casting this spell reduces its cost by {1} or by one mana of that creature's color."
     },
@@ -77,7 +77,7 @@
             "Theros"
         ],
         "effect": "Devotion",
-        "example": "http://magiccards.info/scans/en/ths/89.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/389541.jpg",
         "rating": 2,
         "rule": "Each [symbol] in the mana costs of permanents you control counds towards your devontion to [symbol]."
     },
@@ -86,14 +86,14 @@
             "Scars of Mirrodin"
         ],
         "effect": "Proliferate",
-        "example": "http://magiccards.info/scans/en/som/45.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/194361.jpg",
         "rating": 2,
         "rule": "You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there."
     },
 	{
         "blocks": ["Formerly Evergreen"],
         "effect": "Protection",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/4864.jpg",
         "rating": 2,
         "rule": "This can't be blocked, targeted, dealt damage, or enchanted by anything (quality)"
     },
@@ -102,7 +102,7 @@
             "Alara"
         ],
         "effect": "Unearth",
-        "example": "http://magiccards.info/scans/en/ala/193.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/175111.jpg",
         "rating": 2,
         "rule": "[Cost]: Return this card from your graveyward to the battliefield. It gans haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery."
     },
@@ -111,7 +111,7 @@
             "Scars of Mirrodin"
         ],
         "effect": "Battle Cry",
-        "example": "http://magiccards.info/scans/en/mbs/1.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/214064.jpg",
         "rating": 3,
         "rule": "Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn."
     },
@@ -120,7 +120,7 @@
             "Innistrad"
         ],
         "effect": "Double-faced cards",
-        "example": "http://magiccards.info/scans/en/isd/90b.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/262875.jpg",
         "rating": 3,
         "rule": "Cards with two faces."
     },
@@ -129,7 +129,7 @@
             "Alara"
         ],
         "effect": "Cascade",
-        "example": "http://magiccards.info/scans/en/pc2/84.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/413739.jpg",
         "rating": 3,
         "rule": "When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order."
     },
@@ -138,7 +138,7 @@
             "Lorwyn"
         ],
         "effect": "Evoke",
-        "example": "http://magiccards.info/scans/en/mma/54.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/393861.jpg",
         "rating": 3,
         "rule": "You may cast this spell of its evoke cost. If you do, it's sacrificed when it enters the battlefield."
     },
@@ -148,7 +148,7 @@
             "Magic 2013"
         ],
         "effect": "Exalted",
-        "example": "http://magiccards.info/scans/en/m13/6.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/179434.jpg",
         "rating": 3,
         "rule": "Whenever a creature you control attackes alone, that creature gets +1/+1 until end of turn."
     },
@@ -157,7 +157,7 @@
             "Scars of Mirrodin"
         ],
         "effect": "Infect",
-        "example": "http://magiccards.info/scans/en/nph/111.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/233052.jpg",
         "rating": 3,
         "rule": "This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters."
     },
@@ -166,7 +166,7 @@
             "Shadowmoor"
         ],
         "effect": "Monocolor Hybrid",
-        "example": "http://magiccards.info/scans/en/ddk/26.jpg",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/382198.jpg",
         "rating": 3,
         "rule": "Colored mana costs that can alternatively be paid with {2}."
     },
@@ -273,7 +273,7 @@
     },
     {
         "blocks": [
-          "Innistrad"
+            "Innistrad"
         ],
         "effect": "Undying",
         "example": "https://image.deckbrew.com/mtg/multiverseid/243250.jpg",
@@ -281,51 +281,68 @@
         "rule": "When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Time Spiral",
+            "Shadowmoor"
+        ],
         "effect": "Chroma",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/157399.jpg",
         "rating": 5,
         "rule": "[Effect] for each [color] symbol in its mana cost."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Innistrad"
+        ],
         "effect": "Curse",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/227075.jpg",
         "rating": 5,
         "rule": "Enchant player subtype."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Innistrad"
+        ],
         "effect": "Morbid",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/233253.jpg"",
         "rating": 5,
         "rule": "[Effect], if a creature died this turn."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Onslaught",
+            "Time Spiral"
+        ],
         "effect": "Morph",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/386469.jpg",
         "rating": 5,
         "rule": "You may cast this face down as a 2/2 creature for Turn it face up any time for its morph cost."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Innistrad"
+        ],
         "effect": "Soulbond",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/240155.jpg",
         "rating": 5,
         "rule": "You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Mirrodin"
+        ],
         "effect": "Affinity",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/205277.jpg",
         "rating": 6,
         "rule": "This spell costs less to cast for each [factor] you control."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Tempest",
+            "Time Spiral"
+        ],
         "effect": "Buyback",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/4691.jpg",
         "rating": 6,
         "rule": "You may pay an additional [cost] as you cast this spell. If you do, put this card into your hand as it resolves."
     },
