@@ -304,7 +304,7 @@
             "Innistrad"
         ],
         "effect": "Morbid",
-        "example": "https://image.deckbrew.com/mtg/multiverseid/233253.jpg"",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/233253.jpg",
         "rating": 5,
         "rule": "[Effect], if a creature died this turn."
     },
@@ -347,128 +347,164 @@
         "rule": "You may pay an additional [cost] as you cast this spell. If you do, put this card into your hand as it resolves."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Lorwyn"
+        ],
         "effect": "Champion",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/389755.jpg",
         "rating": 6,
         "rule": "When this enters the battlefield, sacrifice it unless you exile another [factor] you control. When this leaves the battlefield, that card returns to the battlefield."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Scars of Mirrodin"
+        ],
         "effect": "Living Weapon",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/233055.jpg",
         "rating": 6,
         "rule": "When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Kamigawa"
+        ],
         "effect": "Ninjutsu (Renamed)",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/74448.jpg",
         "rating": 6,
         "rule": "[Cost]: Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking"
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Zendikar"
+        ],
         "effect": "Annihilator",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/193452.jpg",
         "rating": 7,
         "rule": "Whenever this creature attacks, defending player sacrifices N permanents."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Alara"
+        ],
         "effect": "Devour",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/175072.jpg",
         "rating": 7,
         "rule": "As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it."
     },
 	{
         "blocks": ["Formerly Evergreen"],
         "effect": "Fear",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/108929.jpg",
         "rating": 7,
         "rule": "This creature can't be blocked except by artifact creatures and/or black creatures."
     },
 	{
         "blocks": ["Formerly Evergreen"],
         "effect": "Intimidate",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/370735.jpg",
         "rating": 7,
         "rule": "This creature can't be blocked except by artifact creatures and/or creatures that share a color with it"
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Lorwyn"
+        ],
         "effect": "Kinship",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/152682.jpg",
         "rating": 7,
         "rule": "At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with [Card Name], you may reveal it. If you do, [effect]."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Zendikar"
+        ],
         "effect": "Level Up",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/401652.jpg",
         "rating": 7,
         "rule": "[Cost]: Put a level counter on this. Level up only as a sorcery.Factors based on creatures level."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Scars of Mirrodin"
+        ],
         "effect": "Metalcraft",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/215099.jpg",
         "rating": 7,
         "rule": "As long as you control three or more artifacts, [effect]."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Legions"
+        ],
         "effect": "Provoke",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/45133.jpg",
         "rating": 7,
         "rule": "When this attacks, you may have target creature defending player controls untap and block it if able"
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Legends",
+            "Ice Age",
+            "Mirage",
+            "Time Spiral"
+        ],
         "effect": "Rampage",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/3140.jpg",
         "rating": 7,
         "rule": "Whenever this creature becomes blocked, it gets +N/+N until end of turn for each creature blocking it beyond the first."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Ice Age"
+        ],
         "effect": "Recover",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/122121.jpg",
         "rating": 7,
         "rule": "When a creature is put into your graveyard from the battlefield, you may pay [cost]. If you do, return this card from your graveyard to your hand. Otherwise, exile this card."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Shadowmoor"
+        ],
         "effect": "Retrace",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/153487.jpg",
         "rating": 7,
         "rule": "You may cast this card from your graveyard by discarding a land card in addition to paying its other costs"
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Tempest",
+            "Time Spiral"
+        ],
         "effect": "Shadow",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/6091.jpg",
         "rating": 7,
         "rule": "This creature can block or be blocked by only creatures with shadow."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Ice Age"
+        ],
         "effect": "Snow",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/389423.jpg",
         "rating": 7,
         "rule": "Snow permanents and Snow mana."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Time Spiral"
+        ],
         "effect": "Split Second",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/110504.jpg",
         "rating": 7,
         "rule": "As long as this spell is on the stack, players can\u2019t cast spells or activate abilities that aren't mana abilities."
     },
     {
-        "blocks": [],
+        "blocks": [
+            "Time Spiral"
+        ],
         "effect": "Vanishing",
-        "example": "",
+        "example": "https://image.deckbrew.com/mtg/multiverseid/125885.jpg",
         "rating": 7,
         "rule": "This permanent enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it."
     },
